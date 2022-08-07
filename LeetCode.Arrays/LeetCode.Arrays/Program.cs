@@ -22,6 +22,9 @@ namespace LeetCode.Arrays
                     }
                 }
             }
+            
+            int[] nums2 = { 6,1,3,2,4,7 };
+            int k2 = arraysService.GetBestTimeToBuyAndSell(nums2);
         }
     }
 }
